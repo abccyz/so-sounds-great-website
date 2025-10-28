@@ -1,0 +1,15 @@
+# 部署脚本和文档（本地使用，不推送到远程）
+deploy.sh
+GITHUB_PAGES_DEPLOY.md
+QUICK_START.md
+
+# 系统文件
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# 依赖
+node_modules/
